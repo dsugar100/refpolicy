@@ -83,6 +83,7 @@ files_watch_all_mount_perm(fapolicyd_t)
 files_watch_all_mount_sb(fapolicyd_t)
 
 fs_getattr_xattr_fs(fapolicyd_t)
+fs_rw_tmpfs_files(fapolicyd_t)
 fs_watch_all_fs(fapolicyd_t)
 
 logging_log_filetrans(fapolicyd_t, fapolicyd_log_t, file)
